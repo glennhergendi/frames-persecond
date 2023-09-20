@@ -1,0 +1,2 @@
+# penjelasan fungsi f
+F-string adalah fitur pada Python yang memungkinkan kita untuk memasukkan ekspresi atau variabel ke dalam string dengan menggunakan kurung kurawal ({}) dan awalan "f" di depan string dan memungkinkan kita untuk membat file dalam sebuah directory
